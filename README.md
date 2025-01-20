@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shahbaz Haider</h1>
 <h3 align="center">A passionate Full Stack PHP Laravel Developer from Canada</h3>
 
-- 🔭 I’m currently working on [Tapday](tapday.com)
+- 🔭 I’m currently working on [OHC](ohc.com)
 
 - 🌱 I’m currently learning **Python**
 
